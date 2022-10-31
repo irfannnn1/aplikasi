@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Downloader</string>
+    <string name="hello_blank_fragment">Hello blank
+fragment</string>
+    <string name="this_activity">Tidak ada yang disukai</string>
+    <string name="this_fragment">Dibuat oleh abdurrahman irfan</string>
+    <string name="search">Search</string>
+    <string name="menu_1">informasi aplikasi</string>
+    <string name="menu_2">Disukai</string>
+    <string name="search_hint">Masukkan kata</string>
+    <string name="to_category">DOWNLOAD NOW</string>
+    <string name="button">Download now</string>
+
+</resources>
